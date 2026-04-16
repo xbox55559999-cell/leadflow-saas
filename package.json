@@ -11,6 +11,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
     "@tailwindcss/vite": "^4.2.2",
     "axios": "^1.6.7",
     "clsx": "^2.1.0",
